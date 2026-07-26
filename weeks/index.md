@@ -98,10 +98,10 @@ permalink: /weeks/
   <span class="week-card-title">OWASP Top 10: The Most Common Web Vulnerabilities</span>
   <span class="week-card-date">2026-07-14</span>
 </a>
-<a href="{{ "/week-14/" | relative_url }}" class="week-card locked" style="--card-accent:#f72585">
+<a href="{{ "/week-14/" | relative_url }}" class="week-card" style="--card-accent:#f72585">
   <span class="week-card-num">Week 14</span>
   <span class="week-card-title">Password Security and Hash Cracking</span>
-  <span class="week-card-date">Available 2026-07-21</span>
+  <span class="week-card-date">2026-07-21</span>
 </a>
 <a href="{{ "/week-15/" | relative_url }}" class="week-card locked" style="--card-accent:#f72585">
   <span class="week-card-num">Week 15</span>
