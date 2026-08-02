@@ -103,10 +103,10 @@ permalink: /weeks/
   <span class="week-card-title">Password Security and Hash Cracking</span>
   <span class="week-card-date">2026-07-21</span>
 </a>
-<a href="{{ "/week-15/" | relative_url }}" class="week-card locked" style="--card-accent:#f72585">
+<a href="{{ "/week-15/" | relative_url }}" class="week-card" style="--card-accent:#f72585">
   <span class="week-card-num">Week 15</span>
   <span class="week-card-title">Network Attacks and Port Scanning</span>
-  <span class="week-card-date">Available 2026-07-28</span>
+  <span class="week-card-date">2026-07-28</span>
 </a>
 <a href="{{ "/week-16/" | relative_url }}" class="week-card locked" style="--card-accent:#f72585">
   <span class="week-card-num">Week 16</span>
