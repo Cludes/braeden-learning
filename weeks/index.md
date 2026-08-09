@@ -108,10 +108,10 @@ permalink: /weeks/
   <span class="week-card-title">Network Attacks and Port Scanning</span>
   <span class="week-card-date">2026-07-28</span>
 </a>
-<a href="{{ "/week-16/" | relative_url }}" class="week-card locked" style="--card-accent:#f72585">
+<a href="{{ "/week-16/" | relative_url }}" class="week-card" style="--card-accent:#f72585">
   <span class="week-card-num">Week 16</span>
   <span class="week-card-title">Web Exploitation: XSS and SQL Injection</span>
-  <span class="week-card-date">Available 2026-08-04</span>
+  <span class="week-card-date">2026-08-04</span>
 </a>
 </div>
 </section>
