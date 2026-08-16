@@ -122,10 +122,10 @@ permalink: /weeks/
   <h2>Phase 4 <span class="phase-name">CTF & HackTheBox</span></h2>
 </div>
 <div class="week-grid">
-<a href="{{ "/week-17/" | relative_url }}" class="week-card locked" style="--card-accent:#e63946">
+<a href="{{ "/week-17/" | relative_url }}" class="week-card" style="--card-accent:#e63946">
   <span class="week-card-num">Week 17</span>
   <span class="week-card-title">CTF Introduction: Your First Flags</span>
-  <span class="week-card-date">Available 2026-08-11</span>
+  <span class="week-card-date">2026-08-11</span>
 </a>
 <a href="{{ "/week-18/" | relative_url }}" class="week-card locked" style="--card-accent:#e63946">
   <span class="week-card-num">Week 18</span>
