@@ -132,10 +132,10 @@ permalink: /weeks/
   <span class="week-card-title">HackTheBox: Starting Point</span>
   <span class="week-card-date">2026-08-18</span>
 </a>
-<a href="{{ "/week-19/" | relative_url }}" class="week-card locked" style="--card-accent:#e63946">
+<a href="{{ "/week-19/" | relative_url }}" class="week-card" style="--card-accent:#e63946">
   <span class="week-card-num">Week 19</span>
   <span class="week-card-title">OSINT: Finding Information Without Touching the Target</span>
-  <span class="week-card-date">Available 2026-08-25</span>
+  <span class="week-card-date">2026-08-25</span>
 </a>
 <a href="{{ "/week-20/" | relative_url }}" class="week-card locked" style="--card-accent:#e63946">
   <span class="week-card-num">Week 20</span>
